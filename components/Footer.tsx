@@ -8,7 +8,7 @@ export default function Footer() {
         <footer className={`${mono.className} container mx-auto`}>
             {/* Social Mobile */}
             <div className="social-mobile">
-                {social.slice(0, 5).map((item, id) => (
+                {social.slice(0, 6).map((item, id) => (
                     <a
                         key={id}
                         href={item.link}
@@ -28,7 +28,7 @@ export default function Footer() {
                 transition={{ duration: 1 }}
                 className="social-desktop"
             >
-                {social.slice(0, 4).map((item, id) => (
+                {social.slice(0, 5).map((item, id) => (
                     <div className="flex flex-col items-center gap-2" key={id}>
                         <div className="group flex gap-4">
                             <a
@@ -58,9 +58,9 @@ export default function Footer() {
             >
                 <a
                     className={`${mono.className} text-xl text-gray1 hover:text-cyan`}
-                    href={social[4].link}
+                    href={social[5].link}
                 >
-                    {social[4].email}
+                    {social[5].email}
                 </a>
                 <div className="h-24 w-px bg-gray1"></div>
             </m.div>

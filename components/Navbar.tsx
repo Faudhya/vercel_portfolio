@@ -80,7 +80,7 @@ export default function Navbar() {
                 className="menu"
                 onClick={handleMenu}
             >
-                <div>{!menu ? 'Menu' : 'Close'}</div>
+                <div className={mono.className}>{!menu ? 'Menu' : 'Close'}</div>
             </m.button>
 
             {/*Mobile Navigation*/}
