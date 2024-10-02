@@ -48,7 +48,7 @@ export default function About() {
                             className="about-img-img"
                             src="/faud.jpeg"
                             width={800}
-                            height={800}
+                            height={900}
                             alt="Faudhy"
                             quality={80}
                         />
