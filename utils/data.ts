@@ -29,7 +29,7 @@ export const experience: Experience[] = [
     {
         title: 'LKPP',
         title_full: 'Lembaga Pengadaan Barang/Jasa Pemerintah - HR Assessor',
-        date: 'May 2023 - Present',
+        date: 'May 2025 - Present',
         story: 'I serve as a Human Resource Assessor, focusing on evaluating competencies, aligning talent with institutional needs, and supporting merit-based recruitment across government sectors. I conduct behavioral assessments, develop assessment tools, and contribute to the standardization of evaluation frameworks to ensure transparency and effectiveness in civil service hiring. My work directly supports the agency’s mission to uphold integrity, efficiency, and professionalism in public procurement and governance.',
     },
     {
