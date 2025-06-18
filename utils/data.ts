@@ -27,10 +27,22 @@ export const list: List[] = [
 ];
 export const experience: Experience[] = [
     {
+        title: 'LKPP',
+        title_full: 'Lembaga Pengadaan Barang/Jasa Pemerintah - HR Assessor',
+        date: 'May 2023 - Present',
+        story: 'I serve as a Human Resource Assessor, focusing on evaluating competencies, aligning talent with institutional needs, and supporting merit-based recruitment across government sectors. I conduct behavioral assessments, develop assessment tools, and contribute to the standardization of evaluation frameworks to ensure transparency and effectiveness in civil service hiring. My work directly supports the agency’s mission to uphold integrity, efficiency, and professionalism in public procurement and governance.',
+    },
+    {
         title: 'Oxinos',
         title_full: 'Gebra Kreativa Global (Oxinos) - Backend Developer',
-        date: 'July 2023 - Present',
+        date: 'July 2023 - Mar 2025',
         story: "I am responsible for designing, building, and maintaining the server-side logic of our applications. My primary duties include creating robust and efficient APIs that facilitate seamless communication between different services and the frontend. I focus on developing high-quality code by conducting thorough unit testing to ensure reliability and performance.In addition to API development and testing, I play a crucial role in designing and managing our databases. This involves creating well-structured and optimized database schemas that support the company's data requirements and business processes. I ensure that the database designs are scalable and efficient, enabling smooth data retrieval and storage operations.",
+    },
+    {
+        title: 'TON Foundation',
+        title_full: 'Ton Foundation - Tech Recruiter / Database Architect',
+        date: 'Dec 2023 - Jan 2025',
+        story: 'I operate at the intersection of talent and technology—leading technical recruitment efforts while architecting and optimizing database systems. I source and assess top-tier engineering talent aligned with TON’s Web3 vision, while also contributing to the design and scaling of decentralized data infrastructure. My dual focus ensures both the growth of a strong technical team and the integrity of the systems they build.',
     },
     {
         title: 'Ruang Guru',
@@ -41,7 +53,7 @@ export const experience: Experience[] = [
     {
         title: 'Garuda Indonesia',
         title_full: 'Garuda Indonesia - Human Resource Genralist',
-        date: 'Jul 2022 - Dec 2022 ',
+        date: 'Jul 2020 - Dec 2022 ',
         story: 'I managed a wide range of HR functions to support organizational goals and enhance employee experience. My responsibilities included recruiting and onboarding new employees, administering benefits and compensation programs, and ensuring compliance with labor laws and company policies. I facilitated employee relations, addressing concerns and resolving conflicts to maintain a positive work environment. ',
     },
 ];

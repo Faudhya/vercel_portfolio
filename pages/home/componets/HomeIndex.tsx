@@ -11,12 +11,14 @@ export default function HomePage() {
             <div className="grid gap-2">
                 <p className="text-cyan">Hi, I am</p>
                 <div className={`${mono.className} grid gap-1`}>
-                    <h1>Faudhya.</h1>
-                    <h1 className="text-gray3">I build things for the web.</h1>
+                    <h1>Faudhy.</h1>
+                    <h1 className="text-gray3">
+                        Web Developer and Human Resources Practitioner
+                    </h1>
                 </div>
                 <p className="xs:pr-0 sm:pr-44 md:pr-72 xl:pr-[400px]">
-                    I'm a backend developer, passionate about learning and
-                    collaboration!
+                    I'm a HR Practitioner and Backend Developer, focused on
+                    people and technology!
                 </p>
             </div>
             {!isWork && (
